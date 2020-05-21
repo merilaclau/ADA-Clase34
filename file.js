@@ -56,6 +56,7 @@ while (numero <= 1000) {
 /**
  * Mostrar en consola el siguiente dibujo utilizando la estructura while, for y do while
  */
+/*
 *
 **
 ***
@@ -69,6 +70,7 @@ while (numero <= 1000) {
 ***********
 ************
 *************
+*/
 
 let numero = 0;
 let asterisco = "*";
